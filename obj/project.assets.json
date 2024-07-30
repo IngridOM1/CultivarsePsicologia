@@ -1,36 +1,36 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {}
+    "net6.0": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    "net7.0": []
+    "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\INGRID\\.nuget\\packages\\": {}
+    "C:\\Users\\Franco Sanchez\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\carpetacp\\cultivarsepsicologia1\\cultivarsepsicologia\\cultivarsepsicologia.csproj",
+      "projectUniqueName": "C:\\Users\\Franco Sanchez\\Downloads\\pagina cultivarse\\CultivarsePsicologia\\cultivarsepsicologia.csproj",
       "projectName": "cultivarsepsicologia",
-      "projectPath": "C:\\carpetacp\\cultivarsepsicologia1\\cultivarsepsicologia\\cultivarsepsicologia.csproj",
-      "packagesPath": "C:\\Users\\INGRID\\.nuget\\packages\\",
-      "outputPath": "C:\\carpetacp\\cultivarsepsicologia1\\cultivarsepsicologia\\obj\\",
+      "projectPath": "C:\\Users\\Franco Sanchez\\Downloads\\pagina cultivarse\\CultivarsePsicologia\\cultivarsepsicologia.csproj",
+      "packagesPath": "C:\\Users\\Franco Sanchez\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Franco Sanchez\\Downloads\\pagina cultivarse\\CultivarsePsicologia\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\INGRID\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Franco Sanchez\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
-        "net7.0"
+        "net6.0"
       ],
       "sources": {
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net7.0": {
-          "targetAlias": "net7.0",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "projectReferences": {}
         }
       },
@@ -41,8 +41,8 @@
       }
     },
     "frameworks": {
-      "net7.0": {
-        "targetAlias": "net7.0",
+      "net6.0": {
+        "targetAlias": "net6.0",
         "imports": [
           "net461",
           "net462",
@@ -62,7 +62,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.424\\RuntimeIdentifierGraph.json"
       }
     }
   }
