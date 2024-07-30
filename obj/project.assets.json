@@ -1,11 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net7.0": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net7.0": []
   },
   "packageFolders": {
     "C:\\Users\\INGRID\\.nuget\\packages\\": {}
@@ -13,24 +13,24 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\carpetacp\\cultivarsepsicologia2\\CultivarsePsicologia\\cultivarsepsicologia.csproj",
+      "projectUniqueName": "C:\\carpetacp\\cultivarsepsicologia3\\CultivarsePsicologia\\cultivarsepsicologia.csproj",
       "projectName": "cultivarsepsicologia",
-      "projectPath": "C:\\carpetacp\\cultivarsepsicologia2\\CultivarsePsicologia\\cultivarsepsicologia.csproj",
+      "projectPath": "C:\\carpetacp\\cultivarsepsicologia3\\CultivarsePsicologia\\cultivarsepsicologia.csproj",
       "packagesPath": "C:\\Users\\INGRID\\.nuget\\packages\\",
-      "outputPath": "C:\\carpetacp\\cultivarsepsicologia2\\CultivarsePsicologia\\obj\\",
+      "outputPath": "C:\\carpetacp\\cultivarsepsicologia3\\CultivarsePsicologia\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\INGRID\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
-        "net6.0"
+        "net7.0"
       ],
       "sources": {
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net7.0": {
+          "targetAlias": "net7.0",
           "projectReferences": {}
         }
       },
@@ -41,8 +41,8 @@
       }
     },
     "frameworks": {
-      "net6.0": {
-        "targetAlias": "net6.0",
+      "net7.0": {
+        "targetAlias": "net7.0",
         "imports": [
           "net461",
           "net462",
@@ -54,24 +54,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[6.0.16, 6.0.16]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[6.0.16, 6.0.16]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[6.0.16, 6.0.16]"
-          },
-          {
-            "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[6.0.16, 6.0.16]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"

@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6XAqDdeDWonCD0F1wtN0mW/eQzDenbQkVAErnGVLUvxLsTKG3Q0X88xwTXwFnDmmp3j1kwzJ2+kuSINktDIElw==",
+  "dgSpecHash": "6bRWkU9Z1jXMSLwxcBdVsfJbKGjOLfPmXSO40g3Ybi8srqOD/S0VOdheeDTzcFzQWGUmnZ5CMZXj3K4OM313cw==",
   "success": true,
-  "projectFilePath": "C:\\carpetacp\\cultivarsepsicologia2\\CultivarsePsicologia\\cultivarsepsicologia.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\INGRID\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
-    "C:\\Users\\INGRID\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
-    "C:\\Users\\INGRID\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512",
-    "C:\\Users\\INGRID\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.16\\microsoft.netcore.app.host.win-x64.6.0.16.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\carpetacp\\cultivarsepsicologia3\\CultivarsePsicologia\\cultivarsepsicologia.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
