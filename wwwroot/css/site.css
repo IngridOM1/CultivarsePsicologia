@@ -1,3 +1,4 @@
+/* Estilos generales */
 html {
   font-size: 14px;
 }
@@ -23,7 +24,7 @@ body {
 
 /* Ajuste del logo en la barra de navegación */
 .logo-adjustment {
-  margin-left: 80px; /* Ajusta este valor según sea necesario */
+  margin-left: 80px;
 }
 
 /* Alineación central de los elementos de navegación */
@@ -34,13 +35,37 @@ body {
 }
 
 .navbar-nav-center .navbar-nav {
-  margin-left: auto; /* Mover los enlaces de navegación */
+  margin-left: auto;
   margin-right: auto;
 }
 
-/* Ajuste del logo para pantallas pequeñas (móviles) */
-@media (max-width: 767.98px) {
-  .logo-adjustment {
-    margin-left: 0; /* Quitar margen izquierdo en móviles */
+
+/* Separación entre los elementos de navegación para pantallas grandes */
+@media (min-width: 768px) {
+  .navbar-nav .nav-item {
+    padding-right: 2px; /* Ajusta este valor para cambiar la separación */
+  }
+  .navbar-nav .nav-item:last-child {
+    padding-right: 0; /* Elimina el padding derecho del último elemento */
   }
 }
+
+/* Ajuste del logo y menú para pantallas pequeñas (móviles) */
+@media (max-width: 767.98px) {
+  .logo-adjustment {
+    margin-left: 0;
+  }
+  .navbar-nav {
+    flex-direction: column; /* Alinear los elementos verticalmente en móviles */
+    align-items: center; /* Centrar elementos */
+    padding: 0;
+  }
+  .navbar-nav .nav-item {
+    padding-right: 0; /* Quitar padding derecho para alineación vertical */
+    margin-bottom: 0px; /* Espaciado entre elementos en móviles */
+  }
+  .navbar-nav .nav-item:last-child {
+    margin-bottom: 0; /* Elimina el margen inferior del último elemento */
+  }
+}
+
