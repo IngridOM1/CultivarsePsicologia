@@ -20,3 +20,27 @@ html {
 body {
   margin-bottom: 60px;
 }
+
+/* Ajuste del logo en la barra de navegación */
+.logo-adjustment {
+  margin-left: 80px; /* Ajusta este valor según sea necesario */
+}
+
+/* Alineación central de los elementos de navegación */
+.navbar-nav-center {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+.navbar-nav-center .navbar-nav {
+  margin-left: auto; /* Mover los enlaces de navegación */
+  margin-right: auto;
+}
+
+/* Ajuste del logo para pantallas pequeñas (móviles) */
+@media (max-width: 767.98px) {
+  .logo-adjustment {
+    margin-left: 0; /* Quitar margen izquierdo en móviles */
+  }
+}
