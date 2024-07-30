@@ -1,6 +1,7 @@
 ﻿/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
 for details on configuring this project to bundle and minify static web assets. */
 
+
 a.navbar-brand {
   white-space: normal;
   text-align: center;
@@ -10,6 +11,8 @@ a.navbar-brand {
 a {
   color: #0077cc;
 }
+
+
 
 .btn-primary {
   color: #fff;
@@ -39,7 +42,48 @@ button.accept-policy {
   line-height: inherit;
 }
 
+
+.contact-info {
+  background-color: #F5EDEB; /* Ajusta al color de fondo deseado */
+  color: #000; /* Color del texto */
+  padding: 20px 0; /* Espaciado interno */
+  text-align: center; /* Centrar el texto */
+  font-size: 16px; /* Tamaño del texto */
+  position: fixed; /* Para fijarlo en la pantalla */
+  bottom: 80px; /* Ajusta la posición vertical */
+  width: 100%;
+}
+
+.contact-info p {
+  margin: 15px 0; /* Aumenta el margen entre párrafos para más separación */
+}
+
+.contact-info a {
+  color: #000; /* Color del texto del enlace */
+  text-decoration: none; /* Quitar subrayado del enlace */
+}
+
+.contact-info .social-icons {
+  margin-top: 20px; /* Aumenta el margen superior para separar de la dirección */
+}
+
+.contact-info .social-icons a {
+  margin: 0 10px; /* Espaciado entre iconos */
+  display: inline-block; /* Para alinear los iconos en línea */
+}
+
+.contact-info .social-icons img {
+  width: 24px; /* Ajusta el tamaño del icono */
+  height: 24px; /* Ajusta el tamaño del icono */
+}
+
+
+
 .footer {
+  background-color: #F0E3D2; /* Color de fondo original del footer */
+  color: #ffffff; /* Color de texto original del footer */
+  padding: 10px 0; /* Padding para espacio interior */
+  text-align: center; /* Centrar el texto */
   position: absolute;
   bottom: 0;
   width: 100%;
