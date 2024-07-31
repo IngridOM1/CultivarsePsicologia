@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\cultivarsepsicologia.bundle.scp.css"
     },
     {
+      "Id": "C:\\carpetacp\\cultivarsepsicologia3\\CultivarsePsicologia\\wwwroot\\css\\index.css",
+      "PackagePath": "staticwebassets\\css\\index.css"
+    },
+    {
       "Id": "C:\\carpetacp\\cultivarsepsicologia3\\CultivarsePsicologia\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
@@ -39,6 +43,18 @@
     {
       "Id": "C:\\carpetacp\\cultivarsepsicologia3\\CultivarsePsicologia\\wwwroot\\img\\logo.png",
       "PackagePath": "staticwebassets\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\carpetacp\\cultivarsepsicologia3\\CultivarsePsicologia\\wwwroot\\img\\portada1.jpg",
+      "PackagePath": "staticwebassets\\img\\portada1.jpg"
+    },
+    {
+      "Id": "C:\\carpetacp\\cultivarsepsicologia3\\CultivarsePsicologia\\wwwroot\\img\\portada1.svg",
+      "PackagePath": "staticwebassets\\img\\portada1.svg"
+    },
+    {
+      "Id": "C:\\carpetacp\\cultivarsepsicologia3\\CultivarsePsicologia\\wwwroot\\img\\portada2.svg",
+      "PackagePath": "staticwebassets\\img\\portada2.svg"
     },
     {
       "Id": "C:\\carpetacp\\cultivarsepsicologia3\\CultivarsePsicologia\\wwwroot\\img\\pucp.png",
