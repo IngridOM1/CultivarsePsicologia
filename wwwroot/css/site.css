@@ -39,6 +39,10 @@ body {
   margin-right: auto;
 }
 
+/* Estilo fijo para la barra de navegación */
+.navbar {
+  z-index: 1030; /* Asegura que el navbar se quede encima de otros elementos */
+}
 
 /* Separación entre los elementos de navegación para pantallas grandes */
 @media (min-width: 768px) {
@@ -68,4 +72,3 @@ body {
     margin-bottom: 0; /* Elimina el margen inferior del último elemento */
   }
 }
-
