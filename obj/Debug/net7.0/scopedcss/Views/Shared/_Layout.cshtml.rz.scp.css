@@ -1,6 +1,7 @@
 /* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
 for details on configuring this project to bundle and minify static web assets. */
 
+
 a.navbar-brand[b-ok8tbrwd6d] {
   white-space: normal;
   text-align: center;
@@ -10,6 +11,8 @@ a.navbar-brand[b-ok8tbrwd6d] {
 a[b-ok8tbrwd6d] {
   color: #0077cc;
 }
+
+
 
 .btn-primary[b-ok8tbrwd6d] {
   color: #fff;
@@ -39,9 +42,43 @@ button.accept-policy[b-ok8tbrwd6d] {
   line-height: inherit;
 }
 
+.contact-info[b-ok8tbrwd6d] {
+  background-color: #F5EDEB; /* Ajusta al color de fondo deseado */
+  color: #000; /* Color del texto */
+  padding: 20px 0; /* Espaciado interno */
+  text-align: center; /* Centrar el texto */
+  font-size: 16px; /* Tamaño del texto */
+  width: 100%;
+}
+
+.contact-info p[b-ok8tbrwd6d],
+.contact-info .social-icons[b-ok8tbrwd6d] {
+  margin: 15px 0; /* Espaciado para separación */
+  display: block; /* Asegura que los elementos se muestren en bloques separados */
+}
+
+.contact-info a[b-ok8tbrwd6d] {
+  color: #000; /* Color del texto del enlace */
+  text-decoration: none; /* Quitar subrayado del enlace */
+  display: block; /* Asegura que los enlaces se muestren en bloques separados */
+}
+
+.contact-info .social-icons[b-ok8tbrwd6d] {
+  margin-top: 20px; /* Aumenta el margen superior para separar de la dirección */
+}
+
+.contact-info .social-icons a[b-ok8tbrwd6d] {
+  margin: 0 10px; /* Espaciado entre iconos */
+  display: inline-block; /* Para alinear los iconos en línea */
+}
+
+
 .footer[b-ok8tbrwd6d] {
-  position: absolute;
-  bottom: 0;
+  background-color: #F0E3D2; /* Color de fondo original del footer */
+  color: #ffffff; /* Color de texto original del footer */
+  padding: 10px 0; /* Padding para espacio interior */
+  text-align: center; /* Centrar el texto */
+  position: relative; /* Cambiado de absolute para permitir el flujo normal */
   width: 100%;
   white-space: nowrap;
   line-height: 60px;
