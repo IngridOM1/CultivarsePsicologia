@@ -44,13 +44,18 @@ body {
   z-index: 1030; /* Asegura que el navbar se quede encima de otros elementos */
 }
 
+/* Cambiar el color del texto de los enlaces de navegación a un color oscuro para buen contraste */
+.navbar .nav-link {
+  color: #000000 !important;
+}
+
 /* Separación entre los elementos de navegación para pantallas grandes */
 @media (min-width: 768px) {
   .navbar-nav .nav-item {
-    padding-right: 2px; /* Ajusta este valor para cambiar la separación */
+    margin-right: 20px; /* Ajusta este valor para cambiar la separación */
   }
   .navbar-nav .nav-item:last-child {
-    padding-right: 0; /* Elimina el padding derecho del último elemento */
+    margin-right: 0; /* Elimina el margen derecho del último elemento */
   }
 }
 
@@ -65,7 +70,7 @@ body {
     padding: 0;
   }
   .navbar-nav .nav-item {
-    padding-right: 0; /* Quitar padding derecho para alineación vertical */
+    margin-right: 0; /* Eliminar margen derecho en móviles */
     margin-bottom: 0px; /* Espaciado entre elementos en móviles */
   }
   .navbar-nav .nav-item:last-child {
