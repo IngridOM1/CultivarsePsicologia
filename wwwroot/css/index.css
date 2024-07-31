@@ -7,6 +7,7 @@ body {
 
 /* Section1 */
 
+/* Ajustes para evitar la superposición del header */
 .section1 {
   background-color: #f9f4f2;
   position: relative;
@@ -16,7 +17,9 @@ body {
   padding: 20px;
   flex-wrap: wrap;
   overflow: hidden;
+  margin-top: 80px; /* Ajusta este valor según la altura real del header */
 }
+
 
 .text {
   padding: 40px;
