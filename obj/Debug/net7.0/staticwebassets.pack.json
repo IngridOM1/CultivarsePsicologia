@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\cultivarsepsicologia.bundle.scp.css"
     },
     {
+      "Id": "C:\\carpetacp\\cultivarsepsicologia3\\CultivarsePsicologia\\wwwroot\\css\\index.css",
+      "PackagePath": "staticwebassets\\css\\index.css"
+    },
+    {
       "Id": "C:\\carpetacp\\cultivarsepsicologia3\\CultivarsePsicologia\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
@@ -29,6 +33,18 @@
       "PackagePath": "staticwebassets\\img\\g3.png"
     },
     {
+      "Id": "C:\\carpetacp\\cultivarsepsicologia3\\CultivarsePsicologia\\wwwroot\\img\\hoja1.png",
+      "PackagePath": "staticwebassets\\img\\hoja1.png"
+    },
+    {
+      "Id": "C:\\carpetacp\\cultivarsepsicologia3\\CultivarsePsicologia\\wwwroot\\img\\hoja2.png",
+      "PackagePath": "staticwebassets\\img\\hoja2.png"
+    },
+    {
+      "Id": "C:\\carpetacp\\cultivarsepsicologia3\\CultivarsePsicologia\\wwwroot\\img\\hoja3.png",
+      "PackagePath": "staticwebassets\\img\\hoja3.png"
+    },
+    {
       "Id": "C:\\carpetacp\\cultivarsepsicologia3\\CultivarsePsicologia\\wwwroot\\img\\instaico.png",
       "PackagePath": "staticwebassets\\img\\instaico.png"
     },
@@ -39,6 +55,22 @@
     {
       "Id": "C:\\carpetacp\\cultivarsepsicologia3\\CultivarsePsicologia\\wwwroot\\img\\logo.png",
       "PackagePath": "staticwebassets\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\carpetacp\\cultivarsepsicologia3\\CultivarsePsicologia\\wwwroot\\img\\portada1.jpg",
+      "PackagePath": "staticwebassets\\img\\portada1.jpg"
+    },
+    {
+      "Id": "C:\\carpetacp\\cultivarsepsicologia3\\CultivarsePsicologia\\wwwroot\\img\\portada1.svg",
+      "PackagePath": "staticwebassets\\img\\portada1.svg"
+    },
+    {
+      "Id": "C:\\carpetacp\\cultivarsepsicologia3\\CultivarsePsicologia\\wwwroot\\img\\portada2.svg",
+      "PackagePath": "staticwebassets\\img\\portada2.svg"
+    },
+    {
+      "Id": "C:\\carpetacp\\cultivarsepsicologia3\\CultivarsePsicologia\\wwwroot\\img\\psicologa.png",
+      "PackagePath": "staticwebassets\\img\\psicologa.png"
     },
     {
       "Id": "C:\\carpetacp\\cultivarsepsicologia3\\CultivarsePsicologia\\wwwroot\\img\\pucp.png",
